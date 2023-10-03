@@ -1,7 +1,7 @@
 import os
 import unittest
 
-from main import find_files
+from Lab2.Task5.main import find_files
 
 
 class FindFilesCase(unittest.TestCase):

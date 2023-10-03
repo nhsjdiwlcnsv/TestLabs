@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 
-from main import get_personal_data, get_age_statistics
+from Lab2.Task2.main import get_personal_data, get_age_statistics
 
 
 class PersonalDataCase(unittest.TestCase):

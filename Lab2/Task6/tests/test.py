@@ -1,6 +1,6 @@
 import os
 import unittest
-from main import save_document
+from Lab2.Task6.main import save_document
 
 
 class SaveDocumentCase(unittest.TestCase):

@@ -2,7 +2,7 @@ import os
 import re
 import unittest
 
-from main import generate_html_table, main
+from Lab2.Task4.main import generate_html_table, main
 
 
 class TableGeneratorCase(unittest.TestCase):
