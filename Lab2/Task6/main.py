@@ -8,7 +8,7 @@ from requests.exceptions import (
 import argparse
 import os
 
-from Task_6 import msgs
+import msgs
 
 
 def save_document(url: str, folder: str) -> bool:

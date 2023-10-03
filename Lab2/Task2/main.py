@@ -1,4 +1,4 @@
-from Task_2 import msgs
+import msgs
 
 
 def get_personal_data() -> tuple | None:

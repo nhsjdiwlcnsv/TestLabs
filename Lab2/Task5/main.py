@@ -1,7 +1,7 @@
 import glob
 import os
 
-from Task_5 import msgs
+import msgs
 
 
 def find_files(folder: str, extension: str) -> list | None:

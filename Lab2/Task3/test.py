@@ -1,7 +1,7 @@
 import unittest
 from unittest.mock import patch
 
-from Task_3.main import main
+from main import main
 
 
 class MainCase(unittest.TestCase):

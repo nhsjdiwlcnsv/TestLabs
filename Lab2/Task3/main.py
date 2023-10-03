@@ -1,4 +1,4 @@
-from Task_3 import msgs
+import msgs
 
 
 def main():
